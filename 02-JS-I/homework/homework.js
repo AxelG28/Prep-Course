@@ -13,6 +13,9 @@ const nuevoBool = null;
 const nuevaResta = 10 - null === 5;
 
 // Resuelve el siguiente problema matemático:
+
+//meowwww
+
 const nuevaMultiplicacion = 10 * null === 40 ;
 
 // Resuelve el siguiente problema matemático:
